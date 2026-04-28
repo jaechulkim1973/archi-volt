@@ -1,0 +1,22 @@
+/* DESIGN TOKENS */
+:root {
+    --primary: #00d4ff;
+    --primary-dark: #0099cc;
+    --accent: #7b2fff;
+    --accent2: #ff6b35;
+    --bg-dark: #0a0e1a;
+    --bg-card: #111827;
+    --bg-card-hover: #1a2332;
+    --text: #e2e8f0;
+    --text-muted: #94a3b8;
+    --text-white: #ffffff;
+    --gradient-main: linear-gradient(135deg, #00d4ff 0%, #7b2fff 50%, #ff6b35 100%);
+    --gradient-subtle: linear-gradient(135deg, #0a0e1a 0%, #1a1040 100%);
+    --glass: rgba(17, 24, 39, 0.7);
+    --glass-border: rgba(255,255,255,0.08);
+    --radius: 16px;
+    --radius-sm: 8px;
+    --shadow: 0 8px 32px rgba(0,0,0,0.3);
+    --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --font: 'Inter', 'Outfit', sans-serif;
+}
